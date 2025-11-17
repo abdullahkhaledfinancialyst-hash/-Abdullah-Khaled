@@ -23,11 +23,6 @@ I'm **Abdullah Khaled** – Financial Analyst + Data Analyst from **Egypt (Suhag
 
 
 
-<h2 class="heading-element" dir="auto">✍ Blog &amp; Writing</h2>
-
-<p dir="auto">Apart from Business Analysis, I also maintain a publications - you can find my publications on my Linked in account at <a href="[https://martinheinz.dev/](https://www.linkedin.com/in/abdullah-khaled-cfa?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)https://www.linkedin.com/in/abdullah-khaled-cfa?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" rel="nofollow">Fiancialyst</a> 
----
-
 ## 📈 GitHub Stats  
 ![Abdullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)  
