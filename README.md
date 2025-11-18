@@ -19,8 +19,10 @@ I'm **Abdullah Khaled** – Financial Analyst + Data Analyst from **Egypt (Cairo
 ![Python](https://img.shields.io/badge/Code-Python-3776AB?logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/Database-SQL-4479A1?logo=postgresql&logoColor=white)
 ![Excel](https://img.shields.io/badge/Tools-Excel-217346?logo=microsoft-excel&logoColor=white)
+![Power Query](https://img.shields.io/badge/ETL-Power%20Query-217346?logo=microsoft-excel&logoColor=white)
 ![Tableau](https://img.shields.io/badge/BI-Tableau-E97627?logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/BI-PowerBI-F2C811?logo=powerbi&logoColor=black)
+![Videoscribe](https://img.shields.io/badge/Animation-VideoScribe-00AEEF?logo=video&logoColor=white)
 ![Word](https://img.shields.io/badge/Tools-Word-2B579A?logo=microsoft-word&logoColor=white)
 ![PowerPoint](https://img.shields.io/badge/Tools-PowerPoint-B7472A?logo=microsoft-powerpoint&logoColor=white) 
 
