@@ -1,4 +1,6 @@
-![README REPO]("C:\Users\islam\Downloads\Gemini_Generated_Image_avlsgcavlsgcavls.png")
+
+<img width="1920" height="544" alt="Gemini_Generated_Image_avlsgcavlsgcavls" src="https://github.com/user-attachments/assets/9d821b7f-59f0-47fe-b755-9294af5530e7" />
+
 
 # Hello, Ladies & Gentlemen! 👋
 
