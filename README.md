@@ -2,7 +2,7 @@
 <img width="1920" height="544" alt="Gemini_Generated_Image_avlsgcavlsgcavls" src="https://github.com/user-attachments/assets/9d821b7f-59f0-47fe-b755-9294af5530e7" />
 
 
-# Hello, Ladies & Gentlemen! 👋
+# Hi, Ladies & Gentlemen! 👋
 
 I'm **Abdullah Khaled** – Financial Analyst + Data Analyst from **Egypt (Cairo)**. I’m passionate about transforming data into insights that drive smart decisions, combining financial expertise with data analytics. Connect With Me on on <a href="https://www.linkedin.com/in/abdullah-khaled-cfa?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" rel="nofollow"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png" alt="LinkedIn" title="LinkedIn icon without padding" style="max-width: 100%;"></a> , or on <img src="https://camo.githubusercontent.com/1a7cc6ba66929124361092d86edfbc32442d567c62fbed7323f2f18c13ce2a14/687474703a2f2f692e696d6775722e636f6d2f77577a583975422e706e67" alt="Twitter" title="twitter icon without padding" data-canonical-src="http://i.imgur.com/wWzX9uB.png" style="max-width: 100%;">
 
