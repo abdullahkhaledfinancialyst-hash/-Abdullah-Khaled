@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Abdullah Khaled | Financial & Data Analyst</title>
+    <style>
+        body { font-family: Arial; margin: 0; padding: 0; background: #f4f4f4;}
+        .header { background: #1f2937; color: white; padding: 40px; text-align: center;}
+        .section { padding: 30px; max-width: 900px; margin: auto; }
+        .card { background: white; padding: 20px; border-radius: 10px; margin-bottom: 20px; }
+        h2 { color: #1f2937; }
+        a { color: #2563eb; text-decoration: none; }
+    </style>
+</head>
+<body>
+
+<div class="header">
+    <h1>Abdullah Khaled</h1>
+    <p>Financial & Data Analyst</p>
+    <p>SQL | Python | Excel | Power BI | Tableau | Power Query</p>
+</div>
+
+<div class="section">
+    <div class="card">
+        <h2>About Me</h2>
+        <p>I'm a financial and data analyst specialized in financial modeling, business analytics,
+        dashboards, data-driven decision making, and automation using SQL, Python, Power BI, and Excel.</p>
+    </div>
+
+    <div class="card">
+        <h2>Projects</h2>
+        <ul>
+            <li><a href="#">Power BI Sales Dashboard</a></li>
+            <li><a href="#">Python Financial Forecasting Model</a></li>
+            <li><a href="#">SQL Data Cleaning & Analysis</a></li>
+            <li><a href="#">Tableau KPI Dashboard</a></li>
+        </ul>
+    </div>
+
+    <div class="card">
+        <h2>Contact</h2>
+        <p>Email: abdullah.khaled.financialyst@gmail.com</p>
+        <p>LinkedIn: <a href="https://www.linkedin.com/in/abdullah-khaled-cfa">linkedin.com/in/abdullah-khaled-cfa</a></p>
+    </div>
+</div>
+
+</body>
+</html>
